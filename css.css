@@ -1,0 +1,24 @@
+.card-text
+{
+    display: none;
+}
+.card a.btn
+{
+    display: none;
+}
+.toggle:hover .card-title
+{
+    display: none;
+}
+.toggle:hover .card-text
+{
+    display: block;
+}
+.toggle:hover  a.btn
+{
+    display: block;
+}
+.hr
+{
+    border-bottom: 1px solid grey;
+}
